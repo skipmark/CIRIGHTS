@@ -8,7 +8,8 @@ If you find a score that you beleive is incorrect please contact skip mark at sk
 
 When using the data, please cite: Mark, Skip, David L. Cingranelli, and Mikhail Filippov. "CIRIGHTS: Quantifying Respect for All Human Rights." Human Rights Quarterly, (Forthcoming). Please also look at the scoring guideline FAQ for citation when using specific rights.
 
-Citation for this repository is here: [![DOI](https://zenodo.org/badge/683877820.svg)](https://zenodo.org/badge/latestdoi/683877820)
+Citation for this repository is here: 
+[![DOI](https://zenodo.org/badge/683877820.svg)](https://zenodo.org/badge/latestdoi/683877820)
 
 The variables contained in the dataset can be seen below. <br>
 
