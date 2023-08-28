@@ -2,9 +2,11 @@
 
 # This version of the dataset is v2.8.27.23 
 
-The dataset contains ordinal measures of human rights respect. If you find a score that you beleive is incorrect please contact skip mark at skipmark@uri.edu. We will check any scores and correct them if they are inaccurate. <be>
+The dataset contains ordinal measures of human rights respect. Higher values often (the atrocity measure is the exception) are associated with greater human rights respect.  <br>
 
-When using the data please cite: Mark, Skip, David L. Cingranelli, and Mikhail Filippov. "CIRIGHTS: Quantifying Respect for All Human Rights." Human Rights Quarterly, (Forthcoming).
+If you find a score that you beleive is incorrect please contact skip mark at skipmark@uri.edu. We will check any scores and correct them if they are inaccurate. <be>
+
+When using the data, please cite: Mark, Skip, David L. Cingranelli, and Mikhail Filippov. "CIRIGHTS: Quantifying Respect for All Human Rights." Human Rights Quarterly, (Forthcoming). Please also look at the scoring guideline FAQ for citation when using specific rights.
 
 The variables contained in the dataset can be seen below. <br>
 
